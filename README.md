@@ -284,7 +284,7 @@ Designed an interactive dashboard containing:
 
 ## 🚀 Interactive Dashboard
 
-[👉 **View Interactive Dashboard**](https://i-ashish-07.github.io/AI-Analysis/dashboard.html)
+[👉 **View Interactive Dashboard**](https://i-ashish-07.github.io/AI-Analysis/vibe_analysis_dashboard.html)
 
 
 
