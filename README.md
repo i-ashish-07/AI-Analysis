@@ -280,6 +280,10 @@ Designed an interactive dashboard containing:
 * Top 10 Products
 * Year, Region and Category filters
 
+[![Demo Preview](screenshot.png)](file:///C:/Users/ashis/Downloads/vibe_analysis_dashboard%20(1).html)
+
+
+
 ---
 
 # 🧠 Key Learning
