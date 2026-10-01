@@ -218,7 +218,7 @@ Designed a **Star Schema** consisting of:
 
 ## 🚀 Interactive Dashboard
 
-[👉 Open Interactive Dashboard](https://i-ashish-07.github.io/YOUR-REPOSITORY/vibe_analysis_dashboard.html)
+![image](https://github.com/i-ashish-07/AI-Analysis/blob/main/my_data_analytics_project_workflow_with_previous_flow.drawio%20(1).png)
 
 The model separates transactional data from descriptive dimensions and supports analytical reporting.
 
