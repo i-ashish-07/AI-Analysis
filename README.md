@@ -10,7 +10,7 @@
 
 ### Workflow
 
-`Raw Data → Profiling → Quality Checks → Cleaning → Validation → EDA → Business Problems → Data Modeling → Dashboard`
+![image](https://github.com/i-ashish-07/AI-Analysis/blob/main/my_data_analytics_project_workflow_with_previous_flow.drawio%20(1).png)
 
 ---
 
