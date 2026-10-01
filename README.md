@@ -215,7 +215,10 @@ Designed a **Star Schema** consisting of:
 * `DimProduct`
 * `DimRegion`
 * `DimDate`
-                 <img width="1687" height="1307" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/6ba11781-ec03-4480-9a92-3cb75a431a39" />
+
+       ## 🚀 Live Dashboard Demo
+
+👉 **[View Interactive Dashboard](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/vibe_analysis_dashboard.html)**
 
 The model separates transactional data from descriptive dimensions and supports analytical reporting.
 
