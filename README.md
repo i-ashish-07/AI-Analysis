@@ -216,9 +216,9 @@ Designed a **Star Schema** consisting of:
 * `DimRegion`
 * `DimDate`
 
-       ## 🚀 Live Dashboard Demo
+## 🚀 Interactive Dashboard
 
-👉 **[View Interactive Dashboard](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/vibe_analysis_dashboard.html)**
+[👉 Open Interactive Dashboard](https://i-ashish-07.github.io/YOUR-REPOSITORY/vibe_analysis_dashboard.html)
 
 The model separates transactional data from descriptive dimensions and supports analytical reporting.
 
