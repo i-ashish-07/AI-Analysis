@@ -215,42 +215,8 @@ Designed a **Star Schema** consisting of:
 * `DimProduct`
 * `DimRegion`
 * `DimDate`
-                 ┌─────────────────┐
-                 │   DIM_CUSTOMER  │
-                 │   customer_id   │
-                 └────────┬────────┘
-                          │ 1
-                          │
-                          │ *
-┌─────────────────┐       │       ┌─────────────────┐
-│   DIM_PRODUCT   │       │       │    DIM_REGION   │
-│   product_id    │── 1 : * ─────│    region_id    │
-└─────────────────┘       │       └─────────────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   FACT_ORDERS   │
-                 │                 │
-                 │ order_id        │
-                 │ date_key        │
-                 │ customer_id     │
-                 │ product_id      │
-                 │ region_id       │
-                 │ quantity        │
-                 │ sales_amount    │
-                 │ cost_amount     │
-                 │ profit          │
-                 │ discount        │
-                 │ is_return       │
-                 └────────┬────────┘
-                          ▲
-                          │ *
-                          │
-                          │ 1
-                 ┌─────────────────┐
-                 │     DIM_DATE    │
-                 │     date_key    │
-                 └─────────────────┘
+                 <img width="1687" height="1307" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/6ba11781-ec03-4480-9a92-3cb75a431a39" />
+
 The model separates transactional data from descriptive dimensions and supports analytical reporting.
 
 ---
