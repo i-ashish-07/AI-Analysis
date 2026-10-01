@@ -218,7 +218,8 @@ Designed a **Star Schema** consisting of:
 
 ## 🚀 Interactive Dashboard
 
-![image](https://github.com/i-ashish-07/AI-Analysis/blob/main/my_data_analytics_project_workflow_with_previous_flow.drawio%20(1).png)
+![image](<img width="1687" height="1307" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/24b2bf76-02ff-4a50-b88d-8bbcbfe6dcf6" />)
+
 
 The model separates transactional data from descriptive dimensions and supports analytical reporting.
 
