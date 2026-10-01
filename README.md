@@ -216,9 +216,7 @@ Designed a **Star Schema** consisting of:
 * `DimRegion`
 * `DimDate`
 
-## 🚀 Interactive Dashboard
-
-![image](<img width="1687" height="1307" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/24b2bf76-02ff-4a50-b88d-8bbcbfe6dcf6" />)
+<img width="1687" height="1307" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/24b2bf76-02ff-4a50-b88d-8bbcbfe6dcf6" />
 
 
 The model separates transactional data from descriptive dimensions and supports analytical reporting.
